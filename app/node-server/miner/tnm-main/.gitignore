@@ -1,0 +1,8 @@
+.gradle
+.idea
+local_repository
+build
+resources
+_resources
+/core/src/test/tmp/
+/cli/src/test/tmp/

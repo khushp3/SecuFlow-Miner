@@ -1,0 +1,6 @@
+# dev container
+.devcontainer
+
+.DS_Store
+
+node_modules/
